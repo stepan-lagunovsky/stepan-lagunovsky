@@ -17,7 +17,7 @@ Front-end development process is always going on in creative way and this is wha
 
 ### Tools
 <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" />
-<br>
+
 <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
 ## Stack description
