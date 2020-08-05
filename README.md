@@ -4,16 +4,10 @@ Graduated as a Master of Architectural Design, web-development by a side with th
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
 
-## ZDORAVA | Web&art portfolio
+## [🌎 ZDORAVA | Web&art portfolio][website-path]
 
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components!
-
-[🌎Please enjoy!  ][website-path]
-
-## [<img align="left" style="background: black;" alt="zdorava" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio!][website-path]
-Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!][website-path]
-
-[🌎Please enjoy!  ][website-path]
+[Please enjoy!  ][website-path]
 
 ## Connect with me:
 
@@ -24,7 +18,7 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 </br>
 ## Technology stack
 
-- React (react-hooks)
+- <img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> React (react-hooks)
 - Babel 7
 - TypeScript
 - ESLint
@@ -85,8 +79,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [<img align="left" style="background: black;" alt="zdorava" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio!][website-path]
-Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  🌎][website-path]
+## [🌎 ZDORAVA | Web&art portfolio!][website-path]
+Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
 [telegram-path]: https://t.me/chienpo
