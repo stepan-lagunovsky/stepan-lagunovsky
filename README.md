@@ -13,17 +13,12 @@ Front-end development process is always going on in creative way and this is wha
 <br>
 <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
+<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
+<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 <br>
-<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
-<br>
-<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
-
-### Environment
-
 <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" />
-
-### Tools
+<br>
 <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
 ## Stack description
