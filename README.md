@@ -6,7 +6,6 @@ Front-end development process is always going on in creative way and this is wha
 
 ## [🌎 ZDORAVA | Web&art portfolio][website-path]
 > Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
-<br/>
 
 ## Technology stack
 
