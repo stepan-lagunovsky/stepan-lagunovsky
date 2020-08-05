@@ -1,17 +1,19 @@
-# Welcome! I'm Front-end Developer, ReactJS
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&card_width=1024" />
+</a>
+<br>
+<br>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&card_width=1024&show_owner=true" />
 </a>
 <hr>
 
+# Welcome! I'm Front-end Developer, ReactJS
+
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&card_width=1024" />
-</a>
 
 ## [🌎 ZDORAVA | Web&art portfolio][website-path]
 > Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
