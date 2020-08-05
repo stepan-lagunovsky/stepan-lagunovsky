@@ -1,14 +1,12 @@
 # Welcome! I'm Front-end Developer, ReactJS
 
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&card_width=250" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&card_width=250&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&show_owner=true" />
 </a>
-</div>
 
 ## About
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
