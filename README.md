@@ -58,7 +58,7 @@ Prettier is an opinionated code formatter with support for many filetypes. Prett
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
 [telegram-path]: https://t.me/chienpo
-[skype-path]: skype:YourSkypeName?add
+[skype-path]: skype:stepanlagunovsky
 [gmail-path]: mailto:office@pb-betolit.ru
 [website-path]: https://zdorava.com
 
