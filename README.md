@@ -9,7 +9,7 @@ Front-end development process is always going on in creative way and this is wha
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components!
 [Please enjoy!  ][website-path]
 
-## Connect with me:
+## Connect with me
 
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
@@ -18,13 +18,25 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 </br>
 ## Technology stack
 
-- <img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> React (react-hooks)
-- Babel 7
-- TypeScript
-- ESLint
-- Stylelint
-- Prettier
-- Jest
+<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> React/Hooks | StyledComponents | Redux | TypeScript | Jest
+<br />
+<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5
+<br />
+<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> CSS3/SCSS
+<br />
+<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
+<br />
+<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" /> Babel 7
+<br />
+<img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /> ESLint / Stylelint
+<br />
+<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" /> Prettier
+<br />
+<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> WebStorm
+<br />
+Tools and helpers:
+<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" />
+<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
 ## Stack description
 
@@ -60,27 +72,6 @@ Jest is a JavaScript testing framework designed to ensure correctness of any Jav
 
 The react-testing-library is a very light-weight solution for testing React components. It helps to avoid including implementation details of your components and rather focus on making your tests give you the confidence for which they are intended. As part of this, your testbase becomes maintainable in the long run so refactors of your components (changes to implementation but not functionality) don't break your tests and slow you and your team down.
 
-
-
-<!--
-**chienpo/chienpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## [🌎 ZDORAVA | Web&art portfolio!][website-path]
-Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
 [telegram-path]: https://t.me/chienpo
