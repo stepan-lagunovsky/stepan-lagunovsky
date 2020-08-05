@@ -27,7 +27,7 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" /> Prettier
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> WebStorm
 
-####Tools and helpers:
+#### Tools and helpers:
 <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" />
 <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
