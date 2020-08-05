@@ -18,7 +18,7 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 - <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 
-## Tools and helpers
+### Tools and helpers
 
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" />
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
