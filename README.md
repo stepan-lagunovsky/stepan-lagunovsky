@@ -10,6 +10,11 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 
 [🌎Please enjoy!  ][website-path]
 
+## [<img align="left" style="background: black;" alt="zdorava" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio!][website-path]
+Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!][website-path]
+
+[🌎Please enjoy!  ][website-path]
+
 ## Connect with me:
 
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
@@ -80,7 +85,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [🌎 ZDORAVA | Web&art portfolio!][website-path]
+## [<img align="left" style="background: black;" alt="zdorava" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio!][website-path]
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  🌎][website-path]
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
