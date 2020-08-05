@@ -1,3 +1,13 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&card_width=1024" />
+</a>
+<br>
+<br>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&theme=dark&bg_color=181818&card_width=1024&show_owner=true" />
+</a>
+
 # Welcome! I'm Front-end Developer, ReactJS
 
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
@@ -60,15 +70,6 @@ Prettier is an opinionated code formatter with support for many filetypes. Prett
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&theme=dark&bg_color=181818&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-## Statistics
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&bg_color=181818&card_width=1024" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&theme=dark&bg_color=181818&card_width=1024" />
-</a>
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
 [telegram-path]: https://t.me/chienpo
