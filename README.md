@@ -1,27 +1,24 @@
 ### Hi there, I'm Front-End, ReactJS Developer
 
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
-Creating reactive applications for me is like making up some web ecosystems. But bricks here - are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills, i combine this in to a real complex react web application!
-Front-end development process is always going on in creative way and this is what i like so much!
+Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
+Front-end development process is always going on in creative way and this is what I like so much!
 
-##[<img align="left" alt="zdorava" width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio][website-path]
+[<div style="display: flex;font-size: 26px; font-weight: bold;"><img align="left" alt="zdorava" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio</div>][website-path]
 
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! Please enjoy!
 
 ## Connect with me:
 
-[<img align="left" alt="zdorava" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website-path]
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
+[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
+[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype-path]
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
-
-[website-path]: https://zdorava.com
-[linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
-[gmail-path]: mailto:office@pb-betolit.ru
-
+</br>
 ## Technology stack
 
-- Babel 7
 - React (react-hooks)
+- Babel 7
 - TypeScript
 - ESLint
 - Stylelint
@@ -29,6 +26,14 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 - Jest
 
 ## Stack description
+
+### React
+
+A JavaScript library for building user interfaces. It's simple and declarative, it uses just plain JavaScript to build reusable components.
+
+### Styled-components
+
+styled-components allows you to write traditional CSS to style your components in JavaScript by utilising tagged template literals. It keeps track of which components are rendered on a page and injects their styles fully automatically. It generates unique class names for your styles, so you never have to worry about duplication, overlap or misspellings. Styling is tied to a specific component. You can style components based on their props or a global theme. It handles vendor prefixing automatically.
 
 ### Babel 7
 
@@ -54,14 +59,6 @@ Jest is a JavaScript testing framework designed to ensure correctness of any Jav
 
 The react-testing-library is a very light-weight solution for testing React components. It helps to avoid including implementation details of your components and rather focus on making your tests give you the confidence for which they are intended. As part of this, your testbase becomes maintainable in the long run so refactors of your components (changes to implementation but not functionality) don't break your tests and slow you and your team down.
 
-### Styled-components
-
-styled-components allows you to write traditional CSS to style your components in JavaScript by utilising tagged template literals. It keeps track of which components are rendered on a page and injects their styles fully automatically. It generates unique class names for your styles, so you never have to worry about duplication, overlap or misspellings. Styling is tied to a specific component. You can style components based on their props or a global theme. It handles vendor prefixing automatically.
-
-### React
-
-A JavaScript library for building user interfaces. It's simple and declarative, it uses just plain JavaScript to build reusable components.
-
 
 
 <!--
@@ -80,3 +77,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
+[telegram-path]: https://t.me/chienpo
+[skype-path]: skype:YourSkypeName?add
+[gmail-path]: mailto:office@pb-betolit.ru
+[website-path]: https://zdorava.com
