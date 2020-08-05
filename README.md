@@ -1,10 +1,10 @@
-# Welcome! I'm Front-End, ReactJS Developer
+### Welcome! I'm Front-End, ReactJS Developer
 
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
 
-## [🌎 ZDORAVA | Web&art portfolio][website-path]
+# [🌎 ZDORAVA | Web&art portfolio][website-path]
 
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components!
 [Please enjoy!  ][website-path]
@@ -18,7 +18,7 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 - <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 
-## Tools and helpers:
+## Tools and helpers
 
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" />
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
