@@ -52,13 +52,11 @@ Prettier is an opinionated code formatter with support for many filetypes. Prett
 ## Connect with me
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
-[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype-path]
 [<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
 </br>
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
 [telegram-path]: https://t.me/chienpo
-[skype-path]: skype:stepanlagunovsky
-[gmail-path]: mailto:office@pb-betolit.ru
+[gmail-path]: mailto:stepan.lagunovsky@gmail.com
 [website-path]: https://zdorava.com
 
