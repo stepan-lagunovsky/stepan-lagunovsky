@@ -55,9 +55,20 @@ Prettier is an opinionated code formatter with support for many filetypes. Prett
 [<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&theme=dark&bg_color=181818&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+## Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&theme=dark&bg_color=181818" />
+</a>
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
 [telegram-path]: https://t.me/chienpo
