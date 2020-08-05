@@ -20,11 +20,10 @@ Front-end development process is always going on in creative way and this is wha
 
   <img align="center" align="center" height="20px" alt="eslint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 
-### Tools and environment
-
-  <pre><img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" />
+##### Tools and environment
+  <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" />
   <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
-</pre>
+
 ## Stack description
 
 ### React
