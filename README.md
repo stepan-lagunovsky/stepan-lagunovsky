@@ -8,19 +8,19 @@ Front-end development process is always going on in creative way and this is wha
 > Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
 
 ## Technology stack
-- **Priorities**
+- ### **Priorities**
 
   <img align="center" align="center" height="50px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="center" height="50px" alt="styled-components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" /> <img align="center" height="50px" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> <img align="center" height="50px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" />
 
-- **Hand's on experience**
+- #### **Hand's on experience**
 
   <img align="center" align="center" height="35px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="center" height="35px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="center" height="35px" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img align="center" height="35px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="center" height="35px" alt="babel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 
-- **Code quality tools**
+- ##### **Code quality tools**
 
   <img align="center" align="center" height="20px" alt="eslint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 
-#### Tools and environment
+### Tools and environment
   <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
 ## Stack description
