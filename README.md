@@ -9,13 +9,7 @@ Front-end development process is always going on in creative way and this is wha
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components!
 [Please enjoy!  ][website-path]
 
-## Connect with me
 
-[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
-[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
-[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype-path]
-[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
-</br>
 ## Technology stack
 
 - <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> React/Hooks | StyledComponents | Redux | TypeScript | Jest
@@ -25,11 +19,17 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 - <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" /> Babel 7
 - <img height="21px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /> ESLint / Stylelint
 - <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" /> Prettier
-- <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> WebStorm
 
 #### Tools and helpers:
-<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" />
-<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
+<img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img height="21px" alt="html" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
+
+## Connect with me
+
+[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
+[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
+[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype-path]
+[<img align="left" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
+</br>
 
 ## Stack description
 
