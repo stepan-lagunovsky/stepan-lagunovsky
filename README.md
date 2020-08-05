@@ -1,6 +1,5 @@
 # Welcome! I'm Front-end Developer, ReactJS
 
-## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&card_width=250" />
 </a>
@@ -8,6 +7,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&card_width=250&show_owner=true" />
 </a>
+
+<br>
 
 ## Who am I?
 
