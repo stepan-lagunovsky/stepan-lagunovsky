@@ -64,7 +64,7 @@ Prettier is an opinionated code formatter with support for many filetypes. Prett
 ## Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&hide=name" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&theme=dark&bg_color=181818" />
