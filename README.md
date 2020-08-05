@@ -4,7 +4,7 @@ Graduated as a Master of Architectural Design, web-development by a side with th
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
 
-##[<div style="display: flex;font-size: 26px; font-weight: bold;"><img align="left" alt="zdorava" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio</div>][website-path]
+[<img align="left" alt="zdorava" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <span style="display: flex;font-size: 26px; font-weight: bold;">ZDORAVA | Web&art portfolio</span>][website-path]
 
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! Please enjoy!
 
