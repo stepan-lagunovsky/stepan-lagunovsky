@@ -11,7 +11,6 @@
 </div>
 
 ## About
-
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
