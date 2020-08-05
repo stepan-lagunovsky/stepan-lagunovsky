@@ -4,7 +4,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&card_width=1024)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who am I?
 
