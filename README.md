@@ -1,4 +1,4 @@
-# Welcome! I'm Front-end Developer, ReactJS
+# Front-end Developer, ReactJS
 
 <a href="https://github.com/chienpo">
   <img  src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff" />
@@ -8,11 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&show_owner=true&theme=dark&title_color=ffffff&icon_color=ffffff" />
 </a>
 
+## Who am I
+
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
 
-## [ ZDORAVA | Web&art portfolio <img alt="stepanlagunovsky" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website-path]
+### [ ZDORAVA | Web&art portfolio][website-path]
 > [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chienpo&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/chienpo/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
 
 ## Technology stack
@@ -58,9 +60,9 @@ Stylelint is a linter that helps to avoid errors and enforce conventions in styl
 Prettier is an opinionated code formatter with support for many filetypes. Prettier enforces a consistent code style (i.e. code formatting) across your entire codebase by parsing code and re-printing it with its own rules taking the maximum line length into account.
 
 ## Connect with me
-[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
-[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
-[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
+[<img align="center" alt="stepanlagunovsky" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
+[<img align="center" alt="stepanlagunovsky" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
+[<img align="center" alt="stepanlagunovsky" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
 </br>
 
 <!--
