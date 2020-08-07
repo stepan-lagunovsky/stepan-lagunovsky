@@ -1,18 +1,18 @@
 # Welcome! I'm Front-end Developer, ReactJS
 
 <a href="https://github.com/chienpo">
-  <img  src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff" />
 </a>
 
 <a href="https://github.com/chienpo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&show_owner=true&theme=dark&title_color=ffffff&icon_color=ffffff" />
 </a>
 
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
 
-## [🌎 ZDORAVA | Web&art portfolio][website-path]
+## [<div><img align="middle" alt="stepanlagunovsky" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ZDORAVA | Web&art portfolio</div>][website-path]
 > [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chienpo&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/chienpo/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
 
 ## Technology stack
