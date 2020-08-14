@@ -35,13 +35,13 @@ Front-end development process is always going on in creative way and this is wha
 
 - #### **Platforms and bundlers**
 
-  <img align="center" height="35px" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/docker.svg" /> | <img align="center" height="35px" alt="webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webpack.svg" />
+  <img align="center" height="35px" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/docker.svg" /> <img align="center" height="35px" alt="webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webpack.svg" />
 
-### Development tools and environment
+### Development tools and environment setup
 - #### **Environment**
-  <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/apple.svg" />
+  <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/apple.svg" /> <img align="center" height="35px" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" /> | <img align="center" height="35px" alt="gitkraken" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gitkraken.svg" />
 
-- #### **Tools**
+- #### **UI Tools**
   <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
 ## Stack description
