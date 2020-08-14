@@ -15,20 +15,23 @@ Creating reactive apps for me is like making up some web ecosystems but bricks h
 Front-end development process is always going on in creative way and this is what I like so much!
 
 ### [ ZDORAVA | Web&art portfolio][website-path]
-> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chienpo&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/chienpo/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]
+> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chienpo&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/chienpo/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]<br><br>
+>[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
+>[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
+>[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
 
 ## Technology stack
 - #### **Priorities**
 
-  <img align="center" height="50px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="center" height="50px" alt="styled-components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" /> <img align="center" height="50px" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> <img align="center" height="50px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> <img align="center" height="50px" alt="storybook" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
+  <img align="center" height="50px" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" /> <img align="center" height="50px" alt="styled-components" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/styled-components.svg" /> <img align="center" height="50px" alt="redux" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/redux.svg" /> <img align="center" height="50px" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> <img align="center" height="50px" alt="storybook" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/storybook.svg" />
 
 - #### **Hand's on experience**
 
-  <img align="center" height="35px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="center" height="35px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="center" height="35px" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img align="center" height="35px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="center" height="35px" alt="babel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
+  <img align="center" height="35px" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" /> <img align="center" height="35px" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" /> <img align="center" height="35px" alt="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/sass.svg" /> <img align="center" height="35px" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" /> <img align="center" height="35px" alt="babel" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/babel.svg" />
 
 - #### **Code quality tools**
 
-  <img align="center" height="20px" alt="eslint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
+  <img align="center" height="20px" alt="eslint" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/eslint.svg" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 
 ### Tools and environment
 - #### **Development Environment**
@@ -62,12 +65,6 @@ Stylelint is a linter that helps to avoid errors and enforce conventions in styl
 
 ### Prettier
 Prettier is an opinionated code formatter with support for many filetypes. Prettier enforces a consistent code style (i.e. code formatting) across your entire codebase by parsing code and re-printing it with its own rules taking the maximum line length into account.
-
-## Connect with me
-[<img align="center" alt="stepanlagunovsky" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]
-[<img align="center" alt="stepanlagunovsky" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]
-[<img align="center" alt="stepanlagunovsky" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]
-</br>
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
