@@ -23,7 +23,7 @@ Front-end development process is always going on in creative way and this is wha
 ## Technology stack
 - #### **Priorities**
 
-  <img align="center" height="50px" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" /> <img align="center" height="50px" alt="styled-components" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/styled-components.svg" /> <img align="center" height="50px" alt="redux" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/redux.svg" /> <img align="center" height="50px" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> <img align="center" height="50px" alt="storybook" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/storybook.svg" />
+  <img align="center" height="50px" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" /> <img align="center" height="50px" alt="redux" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/redux.svg" /> <img align="center" height="50px" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> | <img align="center" height="50px" alt="storybook" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/storybook.svg" />
 
 - #### **Hand's on experience**
 
@@ -33,9 +33,13 @@ Front-end development process is always going on in creative way and this is wha
 
   <img align="center" height="20px" alt="eslint" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/eslint.svg" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 
-### Tools and environment
-- #### **Development Environment**
-  <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" />
+- #### **Platforms and bundlers**
+
+  <img align="center" height="35px" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/docker.svg" /> | <img align="center" height="35px" alt="webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webpack.svg" />
+
+### Development tools and environment
+- #### **Environment**
+  <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/apple.svg" />
 
 - #### **Tools**
   <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
