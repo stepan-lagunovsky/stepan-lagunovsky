@@ -1,11 +1,11 @@
 # Front-end Developer, ReactJS
 
-<a href="https://github.com/chienpo">
-  <img  src="https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff" />
+<a href="https://github.com/stepan-lagunovsky">
+  <img  src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff" />
 </a>
 
-<a href="https://github.com/chienpo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&show_owner=true&theme=dark&title_color=ffffff&icon_color=ffffff" />
+<a href="https://github.com/stepan-lagunovsky">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&show_owner=true&theme=dark&title_color=ffffff&icon_color=ffffff" />
 </a>
 
 ## Who am I
@@ -15,7 +15,7 @@ Creating reactive apps for me is like making up some web ecosystems but bricks h
 Front-end development process is always going on in creative way and this is what I like so much!
 
 ### [ ZDORAVA | Web&art portfolio][website-path]
-> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chienpo&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/chienpo/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]<br><br>
+> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/stepan-lagunovsky/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]<br><br>
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]&nbsp; 
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]&nbsp;
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]&nbsp;
@@ -71,13 +71,13 @@ Stylelint is a linter that helps to avoid errors and enforce conventions in styl
 Prettier is an opinionated code formatter with support for many filetypes. Prettier enforces a consistent code style (i.e. code formatting) across your entire codebase by parsing code and re-printing it with its own rules taking the maximum line length into account.
 
 <!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chienpo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienpo&layout=compact&theme=dark&bg_color=181818&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&theme=dark&bg_color=181818&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
-[telegram-path]: https://t.me/chienpo
+[telegram-path]: https://t.me/stepan-lagunovsky/
 [gmail-path]: mailto:stepan.lagunovsky@gmail.com
 [website-path]: https://zdorava.com
 
