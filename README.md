@@ -1,7 +1,7 @@
 # Front-end Developer, ReactJS
 
 <a href="https://github.com/stepan-lagunovsky">
-  <img  src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/stepan-lagunovsky">
