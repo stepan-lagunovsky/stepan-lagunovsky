@@ -11,14 +11,14 @@ Front-end development process is always going on in creative way and this is wha
 #### [ ZDORAVA | Web&art portfolio][website-path]
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
-  <td colspan="2" style="padding: 0; margin: 0; border-color: transparent;">
+  <td colspan="2" style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
   </td>
 </tr>
 <tr>
-  <td style="padding: 0; margin: 0; border-color: transparent;">
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/home-dark.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
@@ -33,21 +33,9 @@ Front-end development process is always going on in creative way and this is wha
   <td style="border-color: transparent;">
     Light more is enabled.
   </td>
-  <td style="padding: 0; margin: 0; border-color: transparent;">
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/home-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td style="padding: 0; margin: 0; border-color: transparent;">
-    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
-      <img src="https://zdorava.com/assets/templates/html/images/home-about-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
-    </a>
-  </td>
-  <td style="padding: 0; margin: 0; border-color: transparent;">
-    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
-      <img src="https://zdorava.com/assets/templates/html/images/about.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
   </td>
 </tr>
@@ -57,20 +45,32 @@ Front-end development process is always going on in creative way and this is wha
   </td>
 </tr>
 <tr>
-  <td style="padding: 0; margin: 0; border-color: transparent;">
-    <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
-      <img src="https://zdorava.com/assets/templates/html/images/home-portfolio-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
+    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/home-about-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
   </td>
-  <td style="padding: 0; margin: 0; border-color: transparent;">
-    <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
-      <img src="https://zdorava.com/assets/templates/html/images/portfolio-dark.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
+    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/about.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
   </td>
 </tr>
 <tr>
   <td colspan="2" style="border-color: transparent;">
     Portfolio
+  </td>
+</tr>
+<tr>
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
+    <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/home-portfolio-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </td>
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
+    <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/portfolio-dark.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
   </td>
 </tr>
 </table>
