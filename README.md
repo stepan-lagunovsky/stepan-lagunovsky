@@ -66,7 +66,7 @@
     </a>
   </td>
   <td style="border-color: transparent;">
-    Go to About page in light mode
+    Go to About page in dark mode
   </td>
 </tr>
 
