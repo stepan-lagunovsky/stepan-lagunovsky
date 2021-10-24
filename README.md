@@ -117,8 +117,6 @@
 [<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]&nbsp;
 [<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]&nbsp;
 
-## GIT overview
-
 <a href="https://github.com/stepan-lagunovsky">
   <img src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff&cache_seconds=1800" />
 </a>
