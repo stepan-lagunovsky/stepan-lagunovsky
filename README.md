@@ -47,36 +47,26 @@ Front-end development process is always going on in creative way and this is wha
 <tr>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/home-about-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </td>
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
+    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/home-about-light-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
+    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/about.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
   </td>
   <td style="border-color: transparent;">
     About on hover in light mode
   </td>
 </tr>
-<tr>
-  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
-    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
-      <img src="https://zdorava.com/assets/templates/html/images/home-about-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
-    </a>
-  </td>
-  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
-    <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
-      <img src="https://zdorava.com/assets/templates/html/images/about.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
-    </a>
-  </td>
-</tr>
 
-<tr>
-  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
-    <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
-      <img src="https://zdorava.com/assets/templates/html/images/home-portfolio-light-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
-    </a>
-  </td>
-  <td style="border-color: transparent;">
-    Portfolio on hover in light mode
-  </td>
-</tr>
 <tr>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
@@ -85,8 +75,18 @@ Front-end development process is always going on in creative way and this is wha
   </td>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/home-portfolio-light-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
+    <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/portfolio-dark.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
+  </td>
+  <td style="border-color: transparent;">
+    Portfolio on hover in light mode
   </td>
 </tr>
 <tr>
