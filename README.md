@@ -10,7 +10,7 @@ Front-end development process is always going on in creative way and this is wha
 
 #### [ ZDORAVA | Web&art portfolio][website-path]
 <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
-  <img style="border-radius: 5px;" src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" loading="lazy" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;">
+  <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
 </a>
 
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components!
