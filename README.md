@@ -66,7 +66,7 @@
     </a>
   </td>
   <td style="border-color: transparent;">
-    Go to about page in light mode
+    Go to About page in light mode
   </td>
 </tr>
 
@@ -84,7 +84,7 @@
 </tr>
 <tr>
   <td style="border-color: transparent;">
-    Go to portfolio page in dark mode
+    Go to Portfolio page in dark mode
   </td>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
