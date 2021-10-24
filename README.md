@@ -1,24 +1,21 @@
-# Front-end Developer, ReactJS
-
 <a href="https://github.com/stepan-lagunovsky">
   <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHQrS7M2HoH3w/profile-displaybackgroundimage-shrink_350_1400/0/1601112050262?e=1640822400&v=beta&t=FOL9mSwc9A4Y5uAIxMO5nH3IV-HPsk5M5zVEV6Nf6og" alt="banner" style="width: 100%; border-radius: 10px 10px 0 0;" />
 </a>
 
-## Who am I
+## I am Front-end (ReactJS) Developer
 
 Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
 Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
 Front-end development process is always going on in creative way and this is what I like so much!
 
 <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
-  <img style="border-radius: 5px;" src="http://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" loading="lazy" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;">
-
-  <!-- #### [ ZDORAVA | Web&art portfolio][website-path] -->
+  <img style="border-radius: 5px;" src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" loading="lazy" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;">
 </a>
 
-<br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! Please enjoy!
+#### [ ZDORAVA | Web&art portfolio][website-path]
+Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components!
 
->[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/stepan-lagunovsky/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]<br><br>
+>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/stepan-lagunovsky/zdorava) <br>  Watch on GIT<br><br>
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]&nbsp;
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]&nbsp;
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]&nbsp;
