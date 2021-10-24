@@ -2,12 +2,7 @@
   <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHQrS7M2HoH3w/profile-displaybackgroundimage-shrink_350_1400/0/1601112050262?e=1640822400&v=beta&t=FOL9mSwc9A4Y5uAIxMO5nH3IV-HPsk5M5zVEV6Nf6og" alt="banner" style="width: 100%; border-radius: 10px 10px 0 0;" />
 </a>
 
-## I am Front-end (ReactJS) Developer
-
-Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
-Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
-Front-end development process is always going on in creative way and this is what I like so much!
-
+### I am Front-end (ReactJS) Developer
 #### [ ZDORAVA | Web&art portfolio][website-path]
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
@@ -15,6 +10,15 @@ Front-end development process is always going on in creative way and this is wha
     <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" style="border-color: transparent;">
+
+  Graduated as a Master of Architectural Design, web-development by a side with the other things became my way of life.
+  Creating reactive apps for me is like making up some web ecosystems but bricks here are cutes of code, and component-structure - is the constructions. Using my arch-design and development skills I like to combine this in to a real complex react web applications!
+  Front-end development process is always going on in creative way and this is what I like so much!
+
   </td>
 </tr>
 <tr>
@@ -40,11 +44,6 @@ Front-end development process is always going on in creative way and this is wha
   </td>
 </tr>
 <tr>
-  <td colspan="2" style="border-color: transparent;">
-    About
-  </td>
-</tr>
-<tr>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/home-about-hover.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
@@ -54,11 +53,6 @@ Front-end development process is always going on in creative way and this is wha
     <a href="https://zdorava.com/about" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/about.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" style="border-color: transparent;">
-    Portfolio
   </td>
 </tr>
 <tr>
