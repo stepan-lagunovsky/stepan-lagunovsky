@@ -13,6 +13,43 @@ Front-end development process is always going on in creative way and this is wha
   <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
 </a>
 
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+  <td>
+    <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </td>
+  <td>
+    Description
+  </td>
+</tr>
+<tr>
+  <th>
+    Description
+  </th>
+  <th>
+    <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </th>
+</tr>
+<tr>
+  <td colspan="2">
+    <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
+      <img src="https://zdorava.com/assets/templates/html/images/website-preview-image-narrow-light.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
+    </a>
+  </td>
+</tr>
+</table>
+
 Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components!
 
 >[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/stepan-lagunovsky/zdorava) <br>  Watch portfolio on GITHUB<br><br>
