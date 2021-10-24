@@ -54,31 +54,39 @@ Welcome to web&art portfolio station! Here I'd like to share you with my profess
 - #### **UI Tools**
   <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
-## Stack description
+[comment]: <> (## Stack description)
 
-### React
-A JavaScript library for building user interfaces. It's simple and declarative, it uses just plain JavaScript to build reusable components.
+[comment]: <> (### React)
 
-### Styled-components
-styled-components allows you to write traditional CSS to style your components in JavaScript by utilising tagged template literals. It keeps track of which components are rendered on a page and injects their styles fully automatically. It generates unique class names for your styles, so you never have to worry about duplication, overlap or misspellings. Styling is tied to a specific component. You can style components based on their props or a global theme. It handles vendor prefixing automatically.
+[comment]: <> (A JavaScript library for building user interfaces. It's simple and declarative, it uses just plain JavaScript to build reusable components.)
 
-### Jest
-Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly. Jest is well-documented, requires little configuration and can be extended to match your requirements.
+[comment]: <> (### Styled-components)
 
-### React-testing-library
-The react-testing-library is a very light-weight solution for testing React components. It helps to avoid including implementation details of your components and rather focus on making your tests give you the confidence for which they are intended. As part of this, your testbase becomes maintainable in the long run so refactors of your components (changes to implementation but not functionality) don't break your tests and slow you and your team down.
+[comment]: <> (styled-components allows you to write traditional CSS to style your components in JavaScript by utilising tagged template literals. It keeps track of which components are rendered on a page and injects their styles fully automatically. It generates unique class names for your styles, so you never have to worry about duplication, overlap or misspellings. Styling is tied to a specific component. You can style components based on their props or a global theme. It handles vendor prefixing automatically.)
 
-### Babel 7
-Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments. Babel can transform syntax, polyfill features that are missing in your target environment, do source code transformations and more. It can convert JSX syntax, strip out type annotations. Babel is built out of plugins. Compose your own transformation pipeline using existing plugins or write your own. Babel tries to stay true to the ECMAScript standard, as much as reasonably possible.
+[comment]: <> (### Jest)
 
-### ESLint
-It checks source code for stylistic as well as programmatic errors. ESLint helps to identify some mistakes that are made during coding. It is also used for adhering best practices and improving code quality and readability.
+[comment]: <> (Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly. Jest is well-documented, requires little configuration and can be extended to match your requirements.)
 
-### Stylelint
-Stylelint is a linter that helps to avoid errors and enforce conventions in styles. It understands the latest CSS syntax, parses SCSS, extracts embedded styles from HTML, markdown and CSS-in-JS template literals.
+[comment]: <> (### React-testing-library)
 
-### Prettier
-Prettier is an opinionated code formatter with support for many filetypes. Prettier enforces a consistent code style (i.e. code formatting) across your entire codebase by parsing code and re-printing it with its own rules taking the maximum line length into account.
+[comment]: <> (The react-testing-library is a very light-weight solution for testing React components. It helps to avoid including implementation details of your components and rather focus on making your tests give you the confidence for which they are intended. As part of this, your testbase becomes maintainable in the long run so refactors of your components &#40;changes to implementation but not functionality&#41; don't break your tests and slow you and your team down.)
+
+[comment]: <> (### Babel 7)
+
+[comment]: <> (Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments. Babel can transform syntax, polyfill features that are missing in your target environment, do source code transformations and more. It can convert JSX syntax, strip out type annotations. Babel is built out of plugins. Compose your own transformation pipeline using existing plugins or write your own. Babel tries to stay true to the ECMAScript standard, as much as reasonably possible.)
+
+[comment]: <> (### ESLint)
+
+[comment]: <> (It checks source code for stylistic as well as programmatic errors. ESLint helps to identify some mistakes that are made during coding. It is also used for adhering best practices and improving code quality and readability.)
+
+[comment]: <> (### Stylelint)
+
+[comment]: <> (Stylelint is a linter that helps to avoid errors and enforce conventions in styles. It understands the latest CSS syntax, parses SCSS, extracts embedded styles from HTML, markdown and CSS-in-JS template literals.)
+
+[comment]: <> (### Prettier)
+
+[comment]: <> (Prettier is an opinionated code formatter with support for many filetypes. Prettier enforces a consistent code style &#40;i.e. code formatting&#41; across your entire codebase by parsing code and re-printing it with its own rules taking the maximum line length into account.)
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
