@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=stepan-lagunovsky&color=000000)
-
 <a href="https://github.com/stepan-lagunovsky">
   <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHQrS7M2HoH3w/profile-displaybackgroundimage-shrink_350_1400/0/1601112050262?e=1640822400&v=beta&t=FOL9mSwc9A4Y5uAIxMO5nH3IV-HPsk5M5zVEV6Nf6og" alt="banner" style="width: 100%; border-radius: 10px 10px 0 0;" />
 </a>
@@ -129,6 +127,8 @@
 <a href="https://github.com/stepan-lagunovsky">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&show_owner=true&theme=dark&title_color=ffffff&icon_color=ffffff" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=stepan-lagunovsky&color=000000)
 
 ## Technology stack
 > #### **Priorities**
