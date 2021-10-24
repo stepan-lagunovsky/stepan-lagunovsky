@@ -80,19 +80,22 @@ Front-end development process is always going on in creative way and this is wha
   </td>
 </tr>
 <tr>
+  <td style="border-color: transparent;">
+    Portfolio on hover in dark mode
+  </td>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/templates/html/images/portfolio-dark.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
-  </td>
-  <td style="border-color: transparent;">
-    Portfolio on hover in light mode
   </td>
 </tr>
 <tr>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/stepan-lagunovsky/zdorava)
+  </td>
+  <td style="border-color: transparent;">
+    Watch portfolio on GitHub
   </td>
 </tr>
 </table>
