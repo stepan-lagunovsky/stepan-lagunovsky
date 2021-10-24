@@ -1,3 +1,7 @@
+<a href="https://github.com/stepan-lagunovsky">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHQrS7M2HoH3w/profile-displaybackgroundimage-shrink_350_1400/0/1601112050262?e=1640822400&v=beta&t=FOL9mSwc9A4Y5uAIxMO5nH3IV-HPsk5M5zVEV6Nf6og" alt="banner" style="width: 100%; border-radius: 10px 10px 0 0;" />
+</a>
+
 # Front-end Developer, ReactJS
 
 <a href="https://github.com/stepan-lagunovsky">
@@ -15,7 +19,11 @@ Creating reactive apps for me is like making up some web ecosystems but bricks h
 Front-end development process is always going on in creative way and this is what I like so much!
 
 ### [ ZDORAVA | Web&art portfolio][website-path]
-> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/stepan-lagunovsky/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]<br><br>
+<a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
+  <img style="border-radius: 5px; border: 1px solid white;" src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQGr43xwHExgqQ/articleshare-shrink_800/0/1634312575159?e=1635163200&amp;v=beta&amp;t=L8hZebD7mWRjOdp-b0ZPWTJJ7n3q8tLQyD6I6TwZwIg" loading="lazy" alt="ZDORAVA | Web&art portfolio">
+</a>
+
+>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ffffff)](https://github.com/stepan-lagunovsky/zdorava) <br>  Welcome to web&art portfolio station! Here I'd like to share you with my professional experience, BIO, and, of course, project-components! [Please enjoy!  ][website-path]<br><br>
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]&nbsp; 
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]&nbsp;
 >[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]&nbsp;
