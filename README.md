@@ -128,28 +128,28 @@
 </a>
 
 ## Technology stack
-- #### **Priorities**
+> #### **Priorities**
+>
+> <img align="center" height="50px" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" /> <img align="center" height="50px" alt="redux" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/redux.svg" /> <img align="center" height="50px" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> | <img align="center" height="50px" alt="storybook" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/storybook.svg" />
 
-  <img align="center" height="50px" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" /> <img align="center" height="50px" alt="redux" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/redux.svg" /> <img align="center" height="50px" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> | <img align="center" height="50px" alt="storybook" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/storybook.svg" />
+>  #### **Hand's on experience**
+>
+>   <img align="center" height="35px" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" /> <img align="center" height="35px" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" /> <img align="center" height="35px" alt="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/sass.svg" /> <img align="center" height="35px" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" /> <img align="center" height="35px" alt="babel" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/babel.svg" />
+>
+>  #### **Code quality tools**
+>
+>   <img align="center" height="20px" alt="eslint" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/eslint.svg" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
 
-- #### **Hand's on experience**
-
-  <img align="center" height="35px" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" /> <img align="center" height="35px" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" /> <img align="center" height="35px" alt="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/sass.svg" /> <img align="center" height="35px" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" /> <img align="center" height="35px" alt="babel" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/babel.svg" />
-
-- #### **Code quality tools**
-
-  <img align="center" height="20px" alt="eslint" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/eslint.svg" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
-
-- #### **Platforms and bundlers**
-
-  <img align="center" height="35px" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/docker.svg" /> <img align="center" height="35px" alt="webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webpack.svg" />
+> #### **Platforms and bundlers**
+>
+>   <img align="center" height="35px" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/docker.svg" /> <img align="center" height="35px" alt="webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webpack.svg" />
 
 ### Development tools and environment setup
-- #### **Environment**
-  <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/apple.svg" /> <img align="center" height="35px" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" /> | <img align="center" height="35px" alt="gitkraken" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gitkraken.svg" />
+>  #### **Environment**
+>   <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/apple.svg" /> <img align="center" height="35px" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" /> | <img align="center" height="35px" alt="gitkraken" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gitkraken.svg" />
 
-- #### **UI Tools**
-  <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
+>  #### **UI Tools**
+>   <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
 
 [comment]: <> (## Stack description)
 
