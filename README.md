@@ -66,7 +66,7 @@
     </a>
   </td>
   <td style="border-color: transparent;">
-    About on hover in light mode
+    Go to about page in light mode
   </td>
 </tr>
 
@@ -84,7 +84,7 @@
 </tr>
 <tr>
   <td style="border-color: transparent;">
-    Portfolio on hover in dark mode
+    Go to portfolio page in dark mode
   </td>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
@@ -116,6 +116,8 @@
 [<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]&nbsp;
 [<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]&nbsp;
 [<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]&nbsp;
+
+## GitHub overview
 
 <a href="https://github.com/stepan-lagunovsky">
   <img src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&title_color=ffffff&icon_color=ffffff&cache_seconds=1800" />
