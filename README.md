@@ -114,9 +114,9 @@
 
 ## Contacts
 
-[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin-path]&nbsp;
-[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][telegram-path]&nbsp;
-[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />][linkedin-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />][telegram-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />][gmail-path]&nbsp;
 
 ## GitHub overview
 
@@ -133,26 +133,26 @@
 ## Technology stack
 > #### **Priorities**
 >
-> <img align="center" height="50px" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img align="center" height="50px" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img align="center" height="50px" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img align="center" height="50px" alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img align="center" height="50px" alt="storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+> <img align="center" height="50px" alt="react" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img align="center" height="50px" alt="redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=593D88" /> <img align="center" height="50px" alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" /> <img align="center" height="50px" alt="jest" src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325" /> <img align="center" height="50px" alt="storybook" src="https://img.shields.io/badge/storybook-white?style=for-the-badge&logo=storybook&logoColor=FF4785" />
 
 >  #### **Hand's on experience**
 >
->   <img align="center" height="35px" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" height="35px" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" height="35px" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img align="center" height="35px" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+>   <img align="center" height="35px" alt="html5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img align="center" height="35px" alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" /> <img align="center" height="35px" alt="sass" src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699" /> <img align="center" height="35px" alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 >  #### **Code quality tools**
 >
->   <img align="center" height="20px" alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img align="center" height="20px" alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> <img align="center" height="20px" alt="stylelint" src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />
+>   <img align="center" height="20px" alt="eslint" src="https://img.shields.io/badge/eslint-000000?style=for-the-badge&logo=eslint&logoColor=3A33D1" /> <img align="center" height="20px" alt="prettier" src="https://img.shields.io/badge/prettier-000000?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> <img align="center" height="20px" alt="stylelint" src="https://img.shields.io/badge/stylelint-000000?style=for-the-badge&logo=stylelint&logoColor=white" />
 
 > #### **Platforms and bundlers**
 >
->   <img align="center" height="35px" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> <img align="center" height="35px" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+>   <img align="center" height="35px" alt="webpack" src="https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9" /> <img align="center" height="35px" alt="docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2CA5E0" />
 
 ### Development tools and environment setup
 >  #### **Environment**
->   <img align="center" height="35px" alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /> <img align="center" height="35px" alt="webstorm" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img align="center" height="35px" alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />|<img align="center" height="35px" alt="gitkraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
+>   <img align="center" height="35px" alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /> <img align="center" height="35px" alt="webstorm" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img align="center" height="35px" alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />|<img align="center" height="35px" alt="gitkraken" src="https://img.shields.io/badge/GitKraken-000000?style=for-the-badge&logo=GitKraken&logoColor=179287" />
 
 >  #### **UI Tools**
->   <img align="center" height="35px" alt="adobephotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img align="center" height="35px" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+>   <img align="center" height="35px" alt="adobephotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF" /> <img align="center" height="35px" alt="figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 [comment]: <> (## Stack description)
 
