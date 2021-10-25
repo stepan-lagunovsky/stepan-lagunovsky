@@ -133,7 +133,7 @@
 ## Technology stack
 > #### **Priorities**
 >
-> <img align="center" height="50px" alt="react" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img align="center" height="50px" alt="redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=593D88" /> <img align="center" height="50px" alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" /> <img align="center" height="50px" alt="jest" src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325" /> <img align="center" height="50px" alt="storybook" src="https://img.shields.io/badge/storybook-000000?style=for-the-badge&logo=storybook&logoColor=FF4785" />
+> <img align="center" height="45px" alt="react" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img align="center" height="45px" alt="redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=593D88" /> <img align="center" height="45px" alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" /> <img align="center" height="45px" alt="jest" src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325" /> <img align="center" height="45px" alt="storybook" src="https://img.shields.io/badge/storybook-000000?style=for-the-badge&logo=storybook&logoColor=FF4785" />
 
 >  #### **Hand's on experience**
 >
