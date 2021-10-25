@@ -114,9 +114,9 @@
 
 ## Contacts
 
-[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]&nbsp;
-[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram-path]&nbsp;
-[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][telegram-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail-path]&nbsp;
 
 ## GitHub overview
 
@@ -133,26 +133,26 @@
 ## Technology stack
 > #### **Priorities**
 >
-> <img align="center" height="50px" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" /> <img align="center" height="50px" alt="redux" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/redux.svg" /> <img align="center" height="50px" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" /> <img align="center" height="50px" alt="jest" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jest.svg" /> | <img align="center" height="50px" alt="storybook" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/storybook.svg" />
+> <img align="center" height="50px" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img align="center" height="50px" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img align="center" height="50px" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img align="center" height="50px" alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img align="center" height="50px" alt="storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 
 >  #### **Hand's on experience**
 >
->   <img align="center" height="35px" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" /> <img align="center" height="35px" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" /> <img align="center" height="35px" alt="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/sass.svg" /> <img align="center" height="35px" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" /> <img align="center" height="35px" alt="babel" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/babel.svg" />
->
+>   <img align="center" height="35px" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" height="35px" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" height="35px" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img align="center" height="35px" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 >  #### **Code quality tools**
 >
->   <img align="center" height="20px" alt="eslint" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/eslint.svg" /> <img align="center" height="20px" alt="prettier" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/prettier.svg" />
+>   <img align="center" height="20px" alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img align="center" height="20px" alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> <img align="center" height="20px" alt="stylelint" src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />
 
 > #### **Platforms and bundlers**
 >
->   <img align="center" height="35px" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/docker.svg" /> <img align="center" height="35px" alt="webpack" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webpack.svg" />
+>   <img align="center" height="35px" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> <img align="center" height="35px" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
 ### Development tools and environment setup
 >  #### **Environment**
->   <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/webstorm.svg" /> <img align="center" height="35px" alt="webstorm" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/apple.svg" /> <img align="center" height="35px" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" /> | <img align="center" height="35px" alt="gitkraken" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gitkraken.svg" />
+>   <img align="center" height="35px" alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /> <img align="center" height="35px" alt="webstorm" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img align="center" height="35px" alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />|<img align="center" height="35px" alt="gitkraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
 
 >  #### **UI Tools**
->   <img align="center" height="35px" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/adobephotoshop.svg" /> <img align="center" height="35px" alt="figma" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/figma.svg" />
+>   <img align="center" height="35px" alt="adobephotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img align="center" height="35px" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 [comment]: <> (## Stack description)
 
