@@ -95,7 +95,7 @@
 
 <tr>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
-    <a href="https://github.com/stepan-lagunovsky">
+    <a href="https://github.com/stepan-lagunovsky/zdorava">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=highcontrast&border_color=30363d&title_color=ffffff&icon_color=ff0000)](https://github.com/stepan-lagunovsky/zdorava" />
     </a>
   </td>
