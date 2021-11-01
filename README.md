@@ -96,7 +96,7 @@
 <tr>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&border_color=000000&title_color=ffffff&icon_color=ff0000)](https://github.com/stepan-lagunovsky/zdorava)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&border_color=0d1117&title_color=ffffff&icon_color=ff0000)](https://github.com/stepan-lagunovsky/zdorava)
   </td>
   <td style="border-color: transparent;">
     Watch portfolio on GitHub
@@ -112,20 +112,14 @@
 
 [comment]: <> (>[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-path]&nbsp;)
 
-## Contacts
-
-[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />][linkedin-path]&nbsp;
-[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />][telegram-path]&nbsp;
-[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />][gmail-path]&nbsp;
-
 ## GitHub overview
 
 <a href="https://github.com/stepan-lagunovsky">
-  <img src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&border_color=000000&title_color=ffffff&icon_color=ff0000&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&border_color=0d1117&title_color=ffffff&icon_color=ff0000&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/stepan-lagunovsky">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&show_owner=true&theme=dark&border_color=000000&title_color=ffffff&icon_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&show_owner=true&theme=dark&border_color=0d1117&title_color=ffffff&icon_color=ff0000" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=stepan-lagunovsky&color=000000)
@@ -187,6 +181,12 @@
 [comment]: <> (### Prettier)
 
 [comment]: <> (Prettier is an opinionated code formatter with support for many filetypes. Prettier enforces a consistent code style &#40;i.e. code formatting&#41; across your entire codebase by parsing code and re-printing it with its own rules taking the maximum line length into account.)
+
+## Contacts
+
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />][linkedin-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />][telegram-path]&nbsp;
+[<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />][gmail-path]&nbsp;
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
