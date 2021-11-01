@@ -96,7 +96,7 @@
 <tr>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&border_color=30363d&title_color=ffffff&icon_color=ff0000)](https://github.com/stepan-lagunovsky/zdorava)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=highcontrast&border_color=30363d&title_color=ffffff&icon_color=ff0000)](https://github.com/stepan-lagunovsky/zdorava)
   </td>
   <td style="border-color: transparent;">
     Watch portfolio on GitHub
@@ -104,7 +104,7 @@
 </tr>
 </table>
 
-[comment]: <> (>[![ReadMe Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=dark&title_color=ffffff&icon_color=ff0000&#41;]&#40;https://github.com/stepan-lagunovsky/zdorava&#41; <br>  Watch portfolio on GITHUB<br><br>)
+[comment]: <> (>[![ReadMe Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=highcontrast&title_color=ffffff&icon_color=ff0000&#41;]&#40;https://github.com/stepan-lagunovsky/zdorava&#41; <br>  Watch portfolio on GITHUB<br><br>)
 
 [comment]: <> (>[<img align="center" alt="stepanlagunovsky" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-path]&nbsp;)
 
@@ -115,11 +115,11 @@
 ## GitHub overview
 
 <a href="https://github.com/stepan-lagunovsky">
-  <img src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=dark&border_color=30363d&title_color=ffffff&icon_color=ff0000&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&theme=highcontrast&border_color=30363d&title_color=ffffff&icon_color=ff0000&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/stepan-lagunovsky">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&show_owner=true&theme=dark&border_color=30363d&title_color=ffffff&icon_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&show_owner=true&theme=highcontrast&border_color=30363d&title_color=ffffff&icon_color=ff0000" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=stepan-lagunovsky&color=000000)
@@ -189,9 +189,9 @@
 [<img align="center" alt="stepanlagunovsky" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />][gmail-path]&nbsp;
 
 <!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&theme=dark&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stepan-lagunovsky&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast&bg_color=181818&hide=contribs&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&theme=dark&bg_color=181818&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepan-lagunovsky&layout=compact&theme=highcontrast&bg_color=181818&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 [linkedin-path]: https://www.linkedin.com/in/stepan-lagunovsky/
