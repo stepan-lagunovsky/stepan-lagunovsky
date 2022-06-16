@@ -38,7 +38,7 @@
 </tr>
 <tr>
   <td style="border-color: transparent;">
-    Light more is enabled.
+    Light mode is enabled.
   </td>
   <td style="padding: 0 !important; margin: 0; border-color: transparent;">
     <a href="https://zdorava.com" title="ZDORAVA | Web&art portfolio">
@@ -90,17 +90,6 @@
     <a href="https://zdorava.com/portfolio" title="ZDORAVA | Web&art portfolio">
       <img src="https://zdorava.com/assets/images/github/portfolio-dark.png" alt="ZDORAVA | Web&art portfolio" style="width: 100%; border-radius: 10px 10px 0 0;" />
     </a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding: 0 !important; margin: 0; border-color: transparent;">
-    <a href="https://github.com/stepan-lagunovsky/zdorava">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stepan-lagunovsky&repo=zdorava&show_owner=false&theme=highcontrast&border_color=30363d&title_color=ffffff&icon_color=ff0000)](https://github.com/stepan-lagunovsky/zdorava" />
-    </a>
-  </td>
-  <td style="border-color: transparent;">
-    Watch portfolio on GitHub
   </td>
 </tr>
 </table>
